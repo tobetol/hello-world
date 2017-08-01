@@ -11,3 +11,7 @@ ya que con esto se administraran los cambios realiazados por todos en el codigo 
 
 
 ESta es un cambio en otro editor de
+
+Otro mas se corrige el error de f000034
+
+sdfas
